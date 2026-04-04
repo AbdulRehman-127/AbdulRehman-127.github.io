@@ -60,6 +60,7 @@ I learned how to write MySQL queries, starting from basic commands like SELECT, 
 Later, I explored advanced queries using JOIN, GROUP BY, and ORDER BY. Combining tables helped me understand how real databases work.
 
 This improved my problem-solving skills and gave me confidence in handling data.
+![Desktop View](/assets/img/gf.jpg)
 
 ---
 
