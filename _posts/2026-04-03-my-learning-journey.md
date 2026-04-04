@@ -8,6 +8,8 @@ tags: [PF, DBMS, Learning]
 # My Learning Journey in the First Two Semesters  
 ### *By Abdul Rehman*
 
+![Desktop View](/assets/img/ho.jpg)
+
 ---
 
 ## 1. Programming Fundamentals (PF)
