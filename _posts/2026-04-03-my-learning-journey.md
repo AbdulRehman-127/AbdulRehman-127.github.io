@@ -19,7 +19,7 @@ At first, programming felt difficult, especially when dealing with errors. Howev
 
 One of the most important skills I developed was breaking complex problems into smaller steps. This made problem-solving easier and more structured. I also learned the importance of writing clean and readable code.
 
-![Desktop View](https://raw.githubusercontent.com/AbdulRehman-127/AbdulRehman-127/main/_posts/pf.jpg)
+![Desktop View](/assets/img/pf.jpg)
 
 ---
 
