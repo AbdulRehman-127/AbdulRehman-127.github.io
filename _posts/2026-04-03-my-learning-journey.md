@@ -82,8 +82,8 @@ Along with this, I also started building my personal portfolio project using Git
 
 I learned how to structure a website using Markdown files, organize content into sections, and deploy it using GitHub. This experience improved my understanding of professional development workflows.
 
-
 ![Desktop View](/assets/img/portfolio.jpg)
+
 ---
 
 ## 4. Dataset Design and Selection (Kaggle Project Work)
@@ -123,10 +123,11 @@ Projection is used to select specific columns from a table. It reduces unnecessa
 Example: selecting only student names and IDs.
 
 ---
-## 7. ER Diagram (Entity Relationship Diagram)
+## ER Diagram (Entity Relationship Diagram)
+An ER Diagram (Entity Relationship Diagram) is a visual representation of a database that shows how entities, attributes, and relationships are connected. Entities represent real-world objects like Student or Course, attributes describe their properties such as ID or name, and relationships define how entities are linked, such as a Student enrolling in a Course. ER diagrams are used in database design to organize and structure data before implementation.
 
-An ER Diagram is a visual representation of a database structure that shows how entities (tables) are related to each other. It consists of entities, attributes, and relationships. Entities represent real-world objects like Student, Course, or Teacher, while attributes describe their properties such as ID, name, or age. Relationships define how entities are connected, for example a Student enrolls in a Course. ER diagrams help in designing databases in a clear and organized way before implementation.
 ![Desktop View](/assets/img/project er.jpg)
+
 ---
 ## 8. Machine Learning Model Development
 
