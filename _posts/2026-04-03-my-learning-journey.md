@@ -108,6 +108,9 @@ In 2NF, partial dependency is removed. Data is divided into multiple tables so t
 ### 5.3 Third Normal Form (3NF)
 In 3NF, transitive dependency is removed. This ensures that non-key attributes depend only on the primary key, improving consistency and reducing redundancy.
 
+
+![Desktop View](/assets/img/desing.jpg)
+
 ---
 
 ## 6. Relational Algebra Operations
