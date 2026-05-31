@@ -123,7 +123,7 @@ Projection is used to select specific columns from a table. It reduces unnecessa
 Example: selecting only student names and IDs.
 
 ---
-## ER Diagram (Entity Relationship Diagram)
+## 7.ER Diagram (Entity Relationship Diagram)
 An ER Diagram (Entity Relationship Diagram) is a visual representation of a database that shows how entities, attributes, and relationships are connected. Entities represent real-world objects like Student or Course, attributes describe their properties such as ID or name, and relationships define how entities are linked, such as a Student enrolling in a Course. ER diagrams are used in database design to organize and structure data before implementation.
 
 ![Desktop View](/assets/img/project er.jpg)
