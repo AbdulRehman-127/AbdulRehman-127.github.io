@@ -1,4 +1,4 @@
-```markdown
+
 ---
 # the default layout is 'page'
 title: About Me
@@ -102,5 +102,5 @@ As I continue my journey in Computer Engineering, I aim to further develop my ex
 This portfolio will continue to grow as I learn new technologies, complete new projects, and gain more experience throughout my academic and professional journey.
 
 Thank you for visiting my portfolio and exploring my learning journey.
-```
+
 
