@@ -18,6 +18,8 @@ Initially, I found it difficult to identify entities, attributes, and relationsh
 
 ER modeling taught me that every system has structure, and understanding that structure is the key to building efficient databases. This was a completely new way of thinking for me, and it changed how I looked at data organization.
 
+![Desktop View](/assets/img/img.jpg)
+
 ---
 
 ## Learning to Design ER Diagrams Practically
