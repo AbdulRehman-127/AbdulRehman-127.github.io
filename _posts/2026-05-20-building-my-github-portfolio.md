@@ -14,6 +14,10 @@ During my academic journey, I learned that university education is not only abou
 
 Initially, I was unfamiliar with GitHub Pages and personal portfolio websites. The idea of publishing my work online seemed difficult, but I was curious to learn. As I explored GitHub and the Chirpy theme, I realized that a portfolio website could become a collection of my academic achievements, projects, and reflections.
 
+![Desktop View](/assets/img/portfolio.jpg)
+
+----
+
 ## Learning Through Documentation and Blogging
 
 While creating my portfolio, I discovered the importance of documentation. Writing blog posts forced me to revisit concepts that I had learned during Programming Fundamentals and Database Systems. This process improved my understanding because teaching or explaining something requires deeper knowledge than simply studying it.
