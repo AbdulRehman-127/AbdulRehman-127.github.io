@@ -18,6 +18,8 @@ Dr. Bilal Ahmad explained that working with real datasets is an important step i
 
 Initially, exploring Kaggle datasets felt overwhelming because the data was large and complex. However, as I started analyzing it step by step, I began to understand the structure and purpose behind the data.
 
+![Desktop View](/assets/img/123.jpg)
+
 ---
 
 ## Understanding Dataset Structure and Data Preparation
