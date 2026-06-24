@@ -32,6 +32,8 @@ This topic also helped me understand the importance of planning before database 
 
 Over time, ER modeling became more understandable, and I started enjoying the process of designing systems on paper before implementing them in the database.
 
+![Desktop View](/assets/img/ww.jpg)
+
 ---
 
 ## Developing Understanding of Data Organization and Real Applications
