@@ -45,3 +45,7 @@ Through his guidance, I started thinking more carefully about how data is stored
 Looking back, learning normalization was a challenging but very valuable experience. It improved my analytical thinking and helped me understand how real database systems are designed. With the continuous support and teaching of Dr. Bilal Ahmad, I was able to overcome my confusion and develop a strong understanding of normalization concepts.
 
 This knowledge will be very useful in my future studies and practical projects where database design plays an important role.
+
+![Desktop View](/assets/img/desing.jpg)
+
+---
