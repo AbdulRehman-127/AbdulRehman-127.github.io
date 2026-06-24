@@ -1,7 +1,6 @@
-```markdown
 ---
-title: "The Value of Consistency in Learning Computer Engineering"
-author: Abdul Rehman
+title: "The Value of Consistency in Learning"
+author: "Abdul Rehman"
 date: 2026-05-30
 categories: [Blog]
 tags: [Learning, Growth, Reflection]
@@ -26,4 +25,3 @@ As I followed this advice, I noticed steady improvement in both programming and 
 Looking back, consistency has become one of the most valuable habits I developed during my first two semesters. It helped me overcome challenges, improve my understanding, and reduce academic stress.
 
 The guidance of Dr. Bilal Ahmad reinforced this lesson throughout the semester. As I continue my studies, I plan to maintain this habit because I now understand that long-term success is built through continuous effort rather than short bursts of motivation.
-```
