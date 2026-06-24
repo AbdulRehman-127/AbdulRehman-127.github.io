@@ -21,6 +21,9 @@ After completing the ER diagram, I converted the design into relational tables a
 
 Working with SQL also improved my understanding of structured data management. I learned how to create tables, insert records, retrieve information, and maintain consistency across the database. This phase established the foundation upon which the rest of the project was built.
 
+
+![Desktop View](/assets/img/178.jpg)
+
 ---
 
 ## Connecting SQL Data with Machine Learning
