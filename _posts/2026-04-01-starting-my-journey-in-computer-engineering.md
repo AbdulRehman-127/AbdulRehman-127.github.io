@@ -1,9 +1,9 @@
 ---
-title: "Starting My Journey in Computer Engineering"
+title: Starting My Journey in Computer Engineering
 author: Abdul Rehman
-date: 2026-04-01
+date: 2026-04-01 12:00:00 +0500
 categories: [Blog]
-tags: [PF, DBMS, Journey]
+tags: [pf, dbms, journey]
 ---
 
 # Starting My Journey in Computer Engineering
@@ -13,7 +13,9 @@ tags: [PF, DBMS, Journey]
 Beginning my journey in Computer Engineering was one of the most important phases of my academic life. When I first entered this field, I had only a basic idea of programming and computer systems. Everything felt new, complex, and slightly overwhelming because I was entering a completely logical world that required a different way of thinking.
 
 At the start of my semester, I was introduced to my instructor **Dr. Bilal Ahmad**, who was teaching Programming Fundamentals and Database Systems at UET Lahore, Faisalabad Campus. From the very first lecture, Dr. Bilal Ahmad focused on developing logical thinking rather than memorization. He explained that computer engineering is not about copying code but about understanding how problems are solved step by step.
+
 ![Desktop View](/assets/img/ho.jpg)
+
 ---
 
 ## Learning Programming Fundamentals and Early Struggles
