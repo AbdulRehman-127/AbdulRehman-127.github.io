@@ -1,4 +1,4 @@
-```markdown
+
 ---
 title: "Important Lessons I Learned from Database Systems"
 author: Abdul Rehman
@@ -26,4 +26,4 @@ Through assignments and practice exercises, I learned how proper data organizati
 One of the most interesting aspects of the course was understanding how databases support advanced technologies such as Artificial Intelligence and Machine Learning. Dr. Bilal Ahmad often discussed how high-quality data is essential for training reliable models.
 
 This connection motivated me to explore future opportunities in data-driven technologies. The knowledge I gained from Database Systems will continue to support my learning in upcoming semesters and future projects.
-```
+
