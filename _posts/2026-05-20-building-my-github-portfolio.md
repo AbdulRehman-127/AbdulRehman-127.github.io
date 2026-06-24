@@ -1,10 +1,9 @@
-
 ---
-title: "Building My GitHub Portfolio and Leaving a Digital Footprint"
+title: Building My GitHub Portfolio and Leaving a Digital Footprint
 author: Abdul Rehman
-date: 2026-05-20
+date: 2026-05-20 12:00:00 +0500
 categories: [Blog]
-tags: [GitHub, Portfolio, Learning]
+tags: [github, portfolio, learning]
 ---
 
 # Building My GitHub Portfolio and Leaving a Digital Footprint
@@ -26,4 +25,3 @@ Dr. Bilal Ahmad often encouraged students to document their learning process. He
 Creating a portfolio website has given me several benefits. It provides a professional platform where I can showcase my skills and learning journey. It also motivates me to continue learning because every new skill can be documented and shared.
 
 Most importantly, I now understand why Dr. Bilal Ahmad recommended this practice. A digital footprint demonstrates consistency, growth, and commitment to learning. As I continue my Computer Engineering journey, this portfolio will serve as a record of my progress and achievements.
-```
