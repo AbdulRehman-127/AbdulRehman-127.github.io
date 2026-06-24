@@ -14,8 +14,6 @@ Beginning my journey in Computer Engineering was one of the most important phase
 
 At the start of my semester, I was introduced to my instructor **Dr. Bilal Ahmad**, who was teaching Programming Fundamentals and Database Systems at UET Lahore, Faisalabad Campus. From the very first lecture, Dr. Bilal Ahmad focused on developing logical thinking rather than memorization. He explained that computer engineering is not about copying code but about understanding how problems are solved step by step.
 
-![Desktop View](/assets/img/111.jpg)
-
 ---
 
 ## Learning Programming Fundamentals and Early Struggles
@@ -47,3 +45,7 @@ Dr. Bilal Ahmad always encouraged consistency and revision. His guidance helped 
 Looking back, I can clearly see how much I have grown. I started as a beginner with confusion and slowly developed confidence in programming concepts. This journey has built a strong foundation for my future studies in Computer Engineering.
 
 I now feel more motivated to continue learning advanced topics in upcoming semesters, especially Database Systems and programming-related fields.
+
+![Desktop View](/assets/img/111.jpg)
+
+----
