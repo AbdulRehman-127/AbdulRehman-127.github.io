@@ -13,6 +13,7 @@ tags: [PF, Coding, Learning]
 After starting my journey in Computer Engineering, the next big step was Programming Fundamentals. At first, I thought programming would only be about writing code, but I quickly realized that it is actually about thinking logically and solving problems step by step. When Dr. Bilal Ahmad started teaching Programming Fundamentals, he made it very clear that coding is not about memorization but about understanding how a problem can be broken into smaller parts.
 
 In the beginning, even simple concepts like variables and loops felt difficult. I was not familiar with how computers interpret instructions. Every small mistake resulted in errors, and at times it felt overwhelming. However, Dr. Bilal Ahmad encouraged us to stay patient and focus on understanding the logic behind every statement instead of rushing through assignments.
+
 ![Desktop View](/assets/img/ho.jpg)
 ---
 
