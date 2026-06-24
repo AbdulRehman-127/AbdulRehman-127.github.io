@@ -1,10 +1,9 @@
-
 ---
-title: "From Database Design to Machine Learning: My Complete Project Journey"
+title: From Database Design to Machine Learning My Complete Project Journey
 author: Abdul Rehman
-date: 2026-06-05
+date: 2026-06-05 12:00:00 +0500
 categories: [Blog]
-tags: [Database, SQL, Machine Learning, Project]
+tags: [database, sql, machine-learning, project]
 ---
 
 # From Database Design to Machine Learning: My Complete Project Journey
@@ -55,4 +54,3 @@ The project also demonstrated the importance of integrating knowledge from multi
 Looking back, this experience was one of the most valuable parts of my learning journey. It allowed me to connect concepts from Database Systems and emerging Machine Learning topics into a single project. The guidance of Dr. Bilal Ahmad helped me understand not only the technical details but also the bigger picture of how data-driven systems are designed and developed.
 
 This project strengthened my interest in Artificial Intelligence, Data Science, and Software Engineering. It also showed me how foundational knowledge in databases can support advanced technologies and practical applications in the future.
-
