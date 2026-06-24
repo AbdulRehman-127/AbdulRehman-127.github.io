@@ -1,6 +1,5 @@
-
 ---
-# the default layout is 'page'
+layout: page
 title: About Me
 icon: fas fa-info-circle
 order: 4
@@ -74,7 +73,7 @@ Connecting database design, SQL implementation, machine learning models, and use
 
 Throughout these semesters, I developed skills in:
 
-- Programming Fundamentals (C#)
+- Programming Fundamentals (C++)
 - Problem Solving and Logical Thinking
 - Database Design and ER Modeling
 - SQL and MySQL Queries
@@ -102,5 +101,3 @@ As I continue my journey in Computer Engineering, I aim to further develop my ex
 This portfolio will continue to grow as I learn new technologies, complete new projects, and gain more experience throughout my academic and professional journey.
 
 Thank you for visiting my portfolio and exploring my learning journey.
-
-
