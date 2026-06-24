@@ -13,9 +13,6 @@ tags: [GitHub, Portfolio, Learning]
 
 During my academic journey, I learned that university education is not only about passing exams and completing assignments. It is also about creating a record of learning and growth. One of the most valuable suggestions given to us by Dr. Bilal Ahmad was to create a GitHub portfolio website. He explained that students should leave a digital footprint that reflects their learning experiences and technical development.
 
-![Desktop View](/assets/img/portfolio.jpg)
------
-
 Initially, I was unfamiliar with GitHub Pages and personal portfolio websites. The idea of publishing my work online seemed difficult, but I was curious to learn. As I explored GitHub and the Chirpy theme, I realized that a portfolio website could become a collection of my academic achievements, projects, and reflections.
 
 ## Learning Through Documentation and Blogging
