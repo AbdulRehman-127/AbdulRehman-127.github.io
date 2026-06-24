@@ -74,7 +74,7 @@ Connecting database design, SQL implementation, machine learning models, and use
 
 Throughout these semesters, I developed skills in:
 
-- Programming Fundamentals (C++)
+- Programming Fundamentals (C#)
 - Problem Solving and Logical Thinking
 - Database Design and ER Modeling
 - SQL and MySQL Queries
