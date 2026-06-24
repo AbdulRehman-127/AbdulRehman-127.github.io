@@ -1,10 +1,9 @@
-
 ---
-title: "Important Lessons I Learned from Database Systems"
+title: Important Lessons I Learned from Database Systems
 author: Abdul Rehman
-date: 2026-05-25
+date: 2026-05-25 12:00:00 +0500
 categories: [Blog]
-tags: [DBMS, Learning, Reflection]
+tags: [dbms, learning, reflection]
 ---
 
 # Important Lessons I Learned from Database Systems
@@ -19,7 +18,6 @@ Dr. Bilal Ahmad explained that data is one of the most valuable resources in mod
 
 ---
 
-
 ## Applying Database Concepts Beyond the Classroom
 
 The concepts of ER modeling, normalization, and SQL queries initially seemed academic, but I gradually realized their practical value. Every application that stores information depends on well-designed databases.
@@ -31,4 +29,3 @@ Through assignments and practice exercises, I learned how proper data organizati
 One of the most interesting aspects of the course was understanding how databases support advanced technologies such as Artificial Intelligence and Machine Learning. Dr. Bilal Ahmad often discussed how high-quality data is essential for training reliable models.
 
 This connection motivated me to explore future opportunities in data-driven technologies. The knowledge I gained from Database Systems will continue to support my learning in upcoming semesters and future projects.
-
