@@ -18,6 +18,8 @@ Initially, even simple commands like SELECT felt confusing. I was not familiar w
 
 At the beginning, I started with very basic queries such as retrieving data from a single table. Slowly, I began to understand how SQL works step by step. This initial exposure built the foundation for more complex database operations later in the course.
 
+![Desktop View](/assets/img/gf.jpg)
+
 ---
 
 ## Learning SELECT, INSERT, UPDATE, and DELETE Commands
