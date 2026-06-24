@@ -1,4 +1,4 @@
-```markdown
+
 ---
 title: "Building My GitHub Portfolio and Leaving a Digital Footprint"
 author: Abdul Rehman
