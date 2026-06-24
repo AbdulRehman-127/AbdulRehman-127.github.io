@@ -1,9 +1,9 @@
 ---
-title: "Starting My Journey in Computer Engineering"
+title: Starting My Journey in Computer Engineering
 author: Abdul Rehman
-date: 2026-04-01
+date: 2026-04-01 12:00:00 +0500
 categories: [Blog]
-tags: [PF, DBMS, Journey]
+tags: [pf, dbms, journey]
 ---
 
 # Starting My Journey in Computer Engineering
