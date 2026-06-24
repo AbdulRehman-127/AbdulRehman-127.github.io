@@ -1,4 +1,4 @@
-```markdown
+
 ---
 title: "Improving My Problem-Solving Skills Through Programming Fundamentals"
 author: Abdul Rehman
@@ -46,4 +46,4 @@ He also highlighted the importance of working with meaningful datasets, especial
 Looking back, this phase of my academic journey was extremely valuable. I not only improved my programming skills but also developed a stronger problem-solving mindset. The lessons I learned during this period will continue to help me in future courses and technical projects. More importantly, I now understand that success in programming comes through patience, practice, and continuous learning.
 
 This experience strengthened my confidence and prepared me for more advanced topics that I would encounter later in my Computer Engineering journey. It also reinforced the advice repeatedly given by Dr. Bilal Ahmad: understanding the problem is always more important than rushing toward the solution. That lesson remains one of the most valuable things I learned during my first semesters.
-```
+
