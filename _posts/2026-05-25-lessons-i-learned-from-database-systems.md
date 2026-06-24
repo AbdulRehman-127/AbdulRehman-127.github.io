@@ -15,6 +15,11 @@ Before studying Database Systems, I believed that databases were simply collecti
 
 Dr. Bilal Ahmad explained that data is one of the most valuable resources in modern technology. This perspective helped me appreciate the importance of database design and management.
 
+![Desktop View](/assets/img/er.jpg)
+
+---
+
+
 ## Applying Database Concepts Beyond the Classroom
 
 The concepts of ER modeling, normalization, and SQL queries initially seemed academic, but I gradually realized their practical value. Every application that stores information depends on well-designed databases.
